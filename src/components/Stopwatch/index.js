@@ -38,7 +38,7 @@ class Stopwatch extends Component {
               Start
             </button>
             <button type="button">Stop</button>
-            <button type="button">Reset</button>
+            <button type="button">Reset1</button>
           </div>
         </div>
       </div>
